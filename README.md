@@ -1,1 +1,2 @@
 # COMPLETE-VPC-PROJ
+This is a VPC in 3 AZs
